@@ -13,3 +13,12 @@ Conreality Game Development Kit (GDK)
 |
 
 https://gdk.conreality.org/
+
+See Also
+========
+
+* `Conreality Software Development Kit (SDK) for C++
+  <https://github.com/conreality/conreality-sdk>`__
+
+* `Conreality Driver Development Kit (DDK) for C++
+  <https://github.com/conreality/conreality-ddk>`__
